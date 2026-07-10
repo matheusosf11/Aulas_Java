@@ -24,6 +24,17 @@ public class PrimeriaAula {
         System.out.println("Digite seu periodo do curso:  ");
          periodo = entrada5.nextLine();
 
+         System.out.println(
+         "Suas informações: \n" +
+                 "Nome: "+nome +"\n"+
+                 "Idade: "+idade+"\n"+
+                 "Altura: "+altura+"\n"+
+                 "Cargo: "+cargo+"\n"+
+                 "Periodo: "+periodo+"\n");
+
+
+
+
 
 
 
