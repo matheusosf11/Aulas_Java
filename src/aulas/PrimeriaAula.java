@@ -1,3 +1,5 @@
+package aulas;
+
 import java.util.Scanner;
 public class PrimeriaAula {
     public static void main(String[] args){
